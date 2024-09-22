@@ -22,6 +22,7 @@ Note: Run client.py and server.py and look at terminals to view command line tra
         - server recieved and decodes this input and stores it as a variable
 
 
+
     (Repeat 3-6 for subtract)
 
     3rd
